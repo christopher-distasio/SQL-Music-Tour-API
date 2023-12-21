@@ -1,3 +1,5 @@
+const { Sequelize } = require('sequelize')
+
 // DEPENDENCIES
 const express = require('express')
 const app = express()
